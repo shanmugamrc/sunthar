@@ -9,7 +9,11 @@ public class forss {
         int a=11;
         while(a<=20) {
         	System.out.println(a);
+
         	a++b--;
+
+        	a++a--;
+
         }
         int b=21;
         do {
